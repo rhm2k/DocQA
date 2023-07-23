@@ -6,6 +6,32 @@ DocQA 🤖 is a web application built using Streamlit 🔥 and the LangChain �
 Read More Here 👉
 https://ai.plainenglish.io/️-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172
 
+
+## Installation
+
+To run the LangChain web application locally, follow these steps:
+
+Clone this repository 🔗
+
+
+    git clone https://github.com/afaqueumer/DocQA.git
+
+
+Create Virtual Environment and Install the required dependencies ⚙️
+
+
+    - ➡️ pip install pipenv
+    - ➡️ pipenv install
+    - Q: also need to run `pip install -r requirements.txt` ?
+
+
+Launch Streamlit App 🚀
+
+    - ➡️ streamlit run app.py
+
+
+--- original
+
 ## Installation
 To run the LangChain web application locally, follow these steps:
 
